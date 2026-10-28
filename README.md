@@ -71,6 +71,6 @@ STRIPE_WEBHOOK_SECRET
 
 | Plan | Productos/mes | Precio |
 |---|---|---|
-| Gratuito | 10 | 0€ |
-| Pro | 500 | 29€/mes |
-| Empresa | Ilimitado | 99€/mes |
+| Gratuito | 20 | 0€ |
+| Pro | 1200 | 29€/mes |
+| Empresa | 5000 | 99€/mes |
