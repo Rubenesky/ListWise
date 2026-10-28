@@ -4,12 +4,12 @@
 
 Sube un CSV con tus productos y la IA genera automáticamente títulos optimizados para SEO, 5 bullet points de beneficios y una descripción persuasiva lista para usar en cualquier marketplace.
 
-🎥 Demo en vídeo
+🎥 ## Demo en vídeo
 <div align="center"> <a href="https://youtu.be/yd3wz8xNh0s"> <img src="https://drive.google.com/thumbnail?id=1mEGZOwI6ueXFlGTWxKGrVyRQtb5xesFc&sz=w1000" width="400" alt="Haz clic para ver la demo de ListWise"> </a> <br> <a href="https://youtu.be/yd3wz8xNh0s"><b>▶️ Pulsa aquí para ver la demo en vídeo</b></a> </div>
 
 ---
 
-## Uso rápido
+## Uso rápido 
 
 1. Crea una cuenta en https://listwise-app.onrender.com/sign-up
 2. Ve al Dashboard
