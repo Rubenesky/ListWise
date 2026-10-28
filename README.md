@@ -6,8 +6,8 @@ Sube un CSV con tus productos y la IA genera automáticamente títulos optimizad
 
 ### 🎥 Demo en vídeo
 
-<a href="https://drive.google.com/file/d/1mEGZOwI6ueXFlGTWxKGrVyRQtb5xesFc/view?usp=sharing">
-  <img src="https://drive.google.com/thumbnail?id=1bF6i6L_uTPGkDfVRBX5O6O7jUUZDLbzx&sz=w1000" width="400" alt="Demo de ListWise">
+<a href="https://drive.google.com/file/d/1lYeAS9q5Xp6Ujv38X0aYf3Qv8aEXrBO2/view?usp=sharing">
+  <img src="https://drive.google.com/thumbnail?id=1mEGZOwI6ueXFlGTWxKGrVyRQtb5xesFc&sz=w1000" width="400" alt="Demo de ListWise">
 </a>
 
 ---
