@@ -5,7 +5,10 @@
 Sube un CSV con tus productos y la IA genera automáticamente títulos optimizados para SEO, 5 bullet points de beneficios y una descripción persuasiva lista para usar en cualquier marketplace.
 
 ### 🎥 Demo en vídeo
-[![Haz clic para ver el vídeo demo de ListWise](https://drive.google.com/thumbnail?id=1bF6i6L_uTPGkDfVRBX5O6O7jUUZDLbzx&sz=w1000)](https://drive.google.com/file/d/1lYeAS9q5Xp6Ujv38X0aYf3Qv8aEXrBO2/view?usp=sharing)
+
+[![Demo de ListWise](https://drive.google.com/thumbnail?id=1bF6i6L_uTPGkDfVRBX5O6O7jUUZDLbzx&sz=w1000)](https://drive.google.com/file/d/1lYeAS9q5Xp6Ujv38X0aYf3Qv8aEXrBO2/view?usp=sharing)
+
+### [▶️ PULSA AQUÍ PARA VER EL VÍDEO DEMO](https://drive.google.com/file/d/1lYeAS9q5Xp6Ujv38X0aYf3Qv8aEXrBO2/view?usp=sharing)
 
 ---
 
